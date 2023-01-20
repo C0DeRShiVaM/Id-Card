@@ -1,0 +1,34 @@
+*{
+    color: rgb(7, 33, 33);
+}
+
+#yu{
+    background-color: yellowgreen;
+}
+
+button{
+    color: red;
+    background-color: aqua;
+}
+
+button:hover{
+    font-weight: 900;
+}
+
+.post{
+    font-weight: 500;
+}
+
+.post:hover{
+    font-display: block;
+}
+
+button:active{
+    color: blue;
+}
+
+.post:nth-of-type(2n){
+    background-color: #6b6585;
+}
+
+
